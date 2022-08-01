@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "60f5e13f-12d1-4690-9d85-cf342eb51ce3": {
+      "ProjectGuid": "60f5e13f-12d1-4690-9d85-cf342eb51ce3",
+      "DisplayName": "Entities",
+      "ColorIndex": 0
+    },
+    "653a6280-e16a-440d-a2b7-8a523c4ba07a": {
+      "ProjectGuid": "653a6280-e16a-440d-a2b7-8a523c4ba07a",
+      "DisplayName": "ProductApplication",
+      "ColorIndex": 1
+    },
+    "41f49d43-54f0-4afb-bd4e-2406ed6cf705": {
+      "ProjectGuid": "41f49d43-54f0-4afb-bd4e-2406ed6cf705",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

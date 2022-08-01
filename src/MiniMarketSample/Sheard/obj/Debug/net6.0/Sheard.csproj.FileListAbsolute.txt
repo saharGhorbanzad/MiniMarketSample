@@ -1,0 +1,8 @@
+C:\Users\Sahar\source\repos\saharGhorbanzad\MiniMarketSample\src\MiniMarketSample\Sheard\obj\Debug\net6.0\Sheard.csproj.AssemblyReference.cache
+C:\Users\Sahar\source\repos\saharGhorbanzad\MiniMarketSample\src\MiniMarketSample\Sheard\obj\Debug\net6.0\Sheard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahar\source\repos\saharGhorbanzad\MiniMarketSample\src\MiniMarketSample\Sheard\obj\Debug\net6.0\Sheard.AssemblyInfoInputs.cache
+C:\Users\Sahar\source\repos\saharGhorbanzad\MiniMarketSample\src\MiniMarketSample\Sheard\obj\Debug\net6.0\Sheard.AssemblyInfo.cs
+C:\Users\Sahar\source\repos\saharGhorbanzad\MiniMarketSample\src\MiniMarketSample\Sheard\obj\Debug\net6.0\Sheard.csproj.CoreCompileInputs.cache
+C:\Users\Sahar\source\repos\saharGhorbanzad\MiniMarketSample\src\MiniMarketSample\Sheard\obj\Debug\net6.0\Sheard.dll
+C:\Users\Sahar\source\repos\saharGhorbanzad\MiniMarketSample\src\MiniMarketSample\Sheard\obj\Debug\net6.0\ref\Sheard.dll
+C:\Users\Sahar\source\repos\saharGhorbanzad\MiniMarketSample\src\MiniMarketSample\Sheard\obj\Debug\net6.0\Sheard.pdb
